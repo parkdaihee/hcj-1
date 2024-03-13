@@ -20,7 +20,7 @@ function showhtml() {
 
 
 function showcss() {
-    document. getElementById('fig').src = 'img/htmls.jpg' 
+    document. getElementById('fig').src = 'img/html5.jpg' 
     document. getElementById('desc').innerHTML = '<b>css<b/>은 구조적 웹문서를 작성하는데 사용하는 마크업 언어이다.'
 }
 
