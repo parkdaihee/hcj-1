@@ -8,7 +8,7 @@ body{
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    background-color: linen;
+    background-color: skyblue;
 }
 
 ul{
@@ -47,7 +47,7 @@ ul{
 }
 
 .navbar a {
-    color: #fffe;
+    color: blue;
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;

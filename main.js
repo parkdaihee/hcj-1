@@ -12,10 +12,20 @@ function yellow() {
     document.body.style.backgroundColor = 'yellow'
 }
 
-
+function yellow() {
+    document.body.style.backgroundColor = 'linen'
+}
 
 function linen() {
-    document.body.style.backgroundColor = 'linen'
+    document.body.style.backgroundColor = 'sky'
+}
+
+function linen() {
+    document.body.style.backgroundColor = 'blue'
+}
+
+function linen() {
+    document.body.style.backgroundColor = '보라색'
 }
 
 function showhtml() {
